@@ -1,0 +1,40 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +3V3
+K POWER, PWR
+$ENDCMP
+#
+$CMP 10_PinCONNECTOR
+D Connector, single row, 01x10, pin header
+K connector
+$ENDCMP
+#
+$CMP C
+D Unpolarized capacitor
+K cap capacitor
+$ENDCMP
+#
+$CMP CP1
+D Polarised capacitor
+K cap capacitor
+$ENDCMP
+#
+$CMP GNDREF
+K POWER, PWR
+$ENDCMP
+#
+$CMP GPIO_HEADER
+D Connector, single row, 01x10, pin header
+K connector
+$ENDCMP
+#
+$CMP LED
+D LED generic
+K led diode
+$ENDCMP
+#
+$CMP RAW
+K POWER, PWR
+$ENDCMP
+#
+#End Doc Library
